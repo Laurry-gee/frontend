@@ -20,10 +20,10 @@
     "@jridgewell/gen-mapping" "^0.3.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@ape.swap/apeswap-lists@1.4.8":
-  version "1.4.8"
-  resolved "https://registry.yarnpkg.com/@ape.swap/apeswap-lists/-/apeswap-lists-1.4.8.tgz#b31e6babcfb9902fe1d430a3a66e81cf0881ea85"
-  integrity sha512-VfMvxVjuXXcOXGbTWlyvYL7QKis8RVU0o/U7dsMoFfwaJ6TvssX81uNZX1nrwgleOGvS84192VDI8BkrWVs+SA==
+"@ape.swap/apeswap-lists@1.4.9":
+  version "1.4.9"
+  resolved "https://registry.yarnpkg.com/@ape.swap/apeswap-lists/-/apeswap-lists-1.4.9.tgz#c6484ddcf81e1ddc10a0a92a3de00cf7dcc4a7f6"
+  integrity sha512-Rbfpp/fGCBGNBU03nUSsbVrtjULrtkmS1jWyqO9g1vA4VIWA1uGvyPupbJM14z4kEHAMzw/E+Hu/X3uW2PdiHg==
   dependencies:
     "@ape.swap/sdk" "4.4.0"
     bignumber.js "^9.0.2"
@@ -8474,9 +8474,9 @@ nan@^2.14.0:
   integrity sha512-2ZTgtl0nJsO0KQCjEpxcIr5D+Yv90plTitZt9JBfQvVJDS5seMl3FOvsh3+9CoYWXf/1l5OaZzzF6nDm4cagaQ==
 
 nanoid@^3.3.4:
-  version "3.3.6"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
-  integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
+  version "3.3.8"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.8.tgz#b1be3030bee36aaff18bacb375e5cce521684baf"
+  integrity sha512-WNLf5Sd8oZxOm+TzppcYk8gVOgP+l58xNy58D0nbUnOxOWRWvlcCV4kUF7ltmI6PsrLl/BgKEyS4mqsGChFN0w==
 
 natural-compare@^1.4.0:
   version "1.4.0"
